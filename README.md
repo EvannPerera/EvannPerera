@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evan Perera </h1>
+<h1 align="center">Hi 👋, It's Evan Perera </h1>
 <h3 align="center">Aspiring Software Engineer | Solopreneur | AI Development | Business-Focused Software Solutions ~ </h3>
 
 ---
