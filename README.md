@@ -94,4 +94,5 @@ I am a dedicated Software Engineering undergraduate at NIBM with a strong passio
 ## Contact Me
 
 * **Email:** *evanonmail@gmail.com*
+* **Connect:** *[ConnectWithMe](https://linktr.ee/EvannPerera)*
 * **Portfolio Website:** *coming soon!*
