@@ -1,16 +1,96 @@
-## Google : evann👋
+<h1 align="center">Hi 👋, I'm Evan Perera </h1>
+<h3 align="center">Aspiring Software Engineer | Solopreneur | AI Development | Business-Focused Software Solutions ~ </h3>
 
-<!--
-**EvannPerera/EvannPerera** is a ✨ _special_ ✨ repository because its `thththtjyjREADME.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated Software Engineering undergraduate at NIBM with a strong passion for technology, business, and problem-solving. I’ve gained hands-on experience in Java, C, XML, Spring Boot, React, etc, and microservice-based systems through both my academic work and personal projects. I enjoy exploring how software can be used to create meaningful, scalable solutions.
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,xml" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,c" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,xml" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,vs" />
+</p>
+
+---
+
+<div style="
+    background-color: #0d1117;
+    border: 1px solid #21262d;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 820px;
+">
+
+  <h3 style="
+      color: #e6edf3;
+      font-weight: 500;
+      margin-bottom: 6px;
+  ">
+    GitHub Statistics
+  </h3>
+
+  <p style="
+      color: #9da7b1;
+      font-size: 13px;
+      margin-top: 0;
+      margin-bottom: 18px;
+  ">
+    Overview of activity and language usage
+  </p>
+
+  <div style="
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+  ">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=github_dark&hide_border=true"
+      alt="Evan Perera's Top Languages"
+      style="flex: 1; min-width: 280px;"
+    />
+  </div>
+
+</div>
+
+
+
+---
+
+## Current Projects
+
+* IOT Gym Tracking System
+* Autofix - Distributed Service Center Management System
+* Pizza Delivery Mobile Application (Java + XML + Google API)
+* Finix - Financial Management System (Java + SQLite + Oracle + ORDS)
+* Developed AI For Womens Health Care (MS Foundry + HTML)
+
+---
+
+## Contact Me
+
+* **Email:** *evanonmail@gmail.com*
+* **Portfolio Website:** *coming soon!*
