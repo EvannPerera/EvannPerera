@@ -6,6 +6,7 @@
 ## About Me
 
 I am a dedicated Software Engineering undergraduate at NIBM with a strong passion for technology, business, and problem-solving. I’ve gained hands-on experience in Java, C, XML, Spring Boot, React, etc, and microservice-based systems through both my academic work and personal projects. I enjoy exploring how software can be used to create meaningful, scalable solutions.
+
 ---
 
 ## Tech Stack
