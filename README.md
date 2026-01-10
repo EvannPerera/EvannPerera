@@ -1,3 +1,5 @@
+<img src="https://i.postimg.cc/hvVz1XCG/F7A1B5D8-17D9-4122-B094-C8B1B134CBBE.jpg" alt="evann" />
+
 <h1 align="center">Hi 👋, It's Evan Perera </h1>
 <h3 align="center">Aspiring Software Engineer | Solopreneur | AI Development | Business-Focused Software Solutions ~ </h3>
 
