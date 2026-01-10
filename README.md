@@ -71,7 +71,7 @@ I am a dedicated Software Engineering undergraduate at NIBM with a strong passio
       gap: 16px;
   ">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evannperera&layout=compact&theme=github_dark&hide_border=true"
       alt="Evan Perera's Top Languages"
       style="flex: 1; min-width: 280px;"
     />
