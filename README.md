@@ -70,11 +70,7 @@ I am a dedicated Software Engineering undergraduate at NIBM with a strong passio
       flex-wrap: wrap;
       gap: 16px;
   ">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evannperera&layout=compact&theme=github_dark&hide_border=true"
-      alt="Evan Perera's Top Languages"
-      style="flex: 1; min-width: 280px;"
-    />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=EvannPerera&layout=compact&langs_count=8&title_color=007fff&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="languages graph" />
   </div>
 
 </div>
